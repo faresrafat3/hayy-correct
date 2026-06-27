@@ -1,0 +1,17 @@
+# Hayy-correct — dependencies (placeholder, will be expanded when code lands)
+# Listed below are anticipated core dependencies.
+
+# Core ML
+torch>=2.0
+numpy>=1.24
+
+# NLP utilities
+regex
+unicodedata2
+
+# Data handling
+pandas>=2.0
+datasets>=2.14
+
+# Experiment tracking (optional)
+tensorboard
